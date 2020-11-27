@@ -1,16 +1,8 @@
-# suhamv1_app
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nama Kelompok 
+  - Alifia Afifiah 182410103069
+  - Meliatiya Arifviana 182410103037
+  - Muhammad Agung Santoso 182410103081
+  
+Sahum adalah apliasi berbasis mobile yang befokus dalam dunia investasi dan merupakan implementasi dari sdhgs 8 yaitu pekerjaan layak dan meningkatkan ekonomi di Indonesia. 
+Sahum bertujuan untuk membantu penggiat usaha kecil menengah dalam membangun usahanya. Sahum dapat mendatangkan investor-investor lokal untuk memulai berinvestasi pada umkm di Indonesia.
+Pada pasalnya banyak sekali masyarakat kita yang membeli saham perusahaan internasional yang sangat jelas menggiurkan, akan tetapi dengan adanya sahum maka diharapkan masyarakat dapat membantu para penggiat usaha kecil menengah dalam mengembangkan usaha mereka. 
